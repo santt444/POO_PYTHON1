@@ -5,17 +5,18 @@ clear()
 
 class animal:
     def falar(self):
-        print("O animal fez um som")
+        return "O animal fez um som"
     
 class cachorro(animal):
     def falar(self):
-        print("Auau")
+        return "Auau"
 
 class fala(animal):
     def falar(self):
-        print("O cachorro fala ")
+        return "O cachorro late"
 
 dog = fala()
-dog.falar()
+print(dog.falar())
+
 dog = cachorro()
-dog.falar()
+print(dog.falar())

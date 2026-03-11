@@ -1,0 +1,1 @@
+from heranca5 import pessoa, aluno, professor

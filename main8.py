@@ -1,0 +1,1 @@
+from heranca8 import Veiculo, carro, moto 

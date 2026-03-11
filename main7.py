@@ -1,0 +1,1 @@
+from heranca7 import Pessoa, Professor

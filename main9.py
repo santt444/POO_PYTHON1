@@ -1,0 +1,1 @@
+from heranca9 import Personagens, Guerreiro, Mago

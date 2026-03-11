@@ -1,0 +1,1 @@
+from heranca4 import veiculo, moto 
