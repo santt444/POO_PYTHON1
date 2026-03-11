@@ -102,5 +102,4 @@ celular = Aparelho("Smartphone",2500.00)
 celular.exibir()
 sleep(1.5)
 clear()
- # teste git
- 
+ # teste git 
